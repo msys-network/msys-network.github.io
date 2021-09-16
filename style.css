@@ -46,6 +46,10 @@ header {
     font-size: 21px;
 }
 
+header a {
+    margin-right: 15px;
+}
+
 footer {
     position: fixed;
     bottom: 0;
